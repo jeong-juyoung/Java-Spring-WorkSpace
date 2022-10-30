@@ -1,6 +1,6 @@
 package ch19;
 
-public class ArrayTest {
+public class ArrayTest<B> {
 
     public static void main(String[] args) {
         int arr[] = new int[10];
